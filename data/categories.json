@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mapenzi",
+    "name": "Mapenzi",
+    "icon": "❤️",
+    "description": "Vichekesho vya mahusiano"
+  },
+  {
+    "id": "shule",
+    "name": "Shule & Chuo",
+    "icon": "🎓",
+    "description": "Maisha ya wanafunzi"
+  },
+  {
+    "id": "kazi",
+    "name": "Kazi & Ajira",
+    "icon": "💼",
+    "description": "Maisha ya kazini"
+  },
+  {
+    "id": "mtaani",
+    "name": "Mtaani",
+    "icon": "😂",
+    "description": "Maisha halisi ya Kitanzania"
+  },
+  {
+    "id": "bongo",
+    "name": "Bongo",
+    "icon": "🇹🇿",
+    "description": "Burudani za Bongo"
+  },
+  {
+    "id": "familia",
+    "name": "Familia",
+    "icon": "🏠",
+    "description": "Vichekesho vya familia"
+  },
+  {
+    "id": "michezo",
+    "name": "Michezo",
+    "icon": "⚽",
+    "description": "Football na michezo"
+  },
+  {
+    "id": "tech",
+    "name": "Technology",
+    "icon": "💻",
+    "description": "Teknolojia na maisha"
+  }
+]

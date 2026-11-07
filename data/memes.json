@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Ukisikia mshahara umeingia 😂",
+    "category": "kazi",
+    "image": "assets/images/meme-1.jpg",
+    "likes": 120,
+    "views": 850,
+    "trending": true
+  },
+  {
+    "id": 2,
+    "title": "Mapenzi ya siku hizi 😂",
+    "category": "mapenzi",
+    "image": "assets/images/meme-2.jpg",
+    "likes": 95,
+    "views": 620,
+    "trending": true
+  },
+  {
+    "id": 3,
+    "title": "Matokeo yakitoka shuleni 😭",
+    "category": "shule",
+    "image": "assets/images/meme-3.jpg",
+    "likes": 75,
+    "views": 430,
+    "trending": false
+  },
+  {
+    "id": 4,
+    "title": "Maisha ya mtaani Tanzania 🇹🇿",
+    "category": "mtaani",
+    "image": "assets/images/meme-4.jpg",
+    "likes": 150,
+    "views": 1200,
+    "trending": true
+  },
+  {
+    "id": 5,
+    "title": "Mpira ukiwa dakika za mwisho ⚽",
+    "category": "michezo",
+    "image": "assets/images/meme-5.jpg",
+    "likes": 60,
+    "views": 350,
+    "trending": false
+  },
+  {
+    "id": 6,
+    "title": "Familia ikikuuliza kuhusu ndoa 😂",
+    "category": "familia",
+    "image": "assets/images/meme-6.jpg",
+    "likes": 88,
+    "views": 540,
+    "trending": false
+  }
+]
